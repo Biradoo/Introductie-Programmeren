@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SaxionApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/SaxionApp.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://saxionapp.hboictlab.nl/" />
+      <root url="https://saxionapp.hboictlab.nl/nl/saxion/app/package-summary.html" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
